@@ -1,9 +1,8 @@
-# batch_file_renamer
-Safe, cross-platform Python CLI for batch renaming files. Replace dots/spaces, add prefixes/suffixes. Preview before applying. No dependencies.
-
 # Step-by-Step Guide: Batch File Renamer for Mac & Linux
 
 ## Overview
+
+Safe, cross-platform Python CLI for batch renaming files. Replace dots/spaces, add prefixes/suffixes. Preview before applying. No dependencies.
 
 This guide will help you safely rename files that have incorrect dots or spaces in their names. The script offers flexible options:
 
